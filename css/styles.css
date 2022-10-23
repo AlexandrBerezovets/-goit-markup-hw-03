@@ -36,7 +36,7 @@ body {
     padding-bottom: 94px;
 }
 
-.section.header-padding {
+.header {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom-width: 1px;
